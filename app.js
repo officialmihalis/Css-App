@@ -1,4 +1,4 @@
-Vue.createApp({
+let vm = Vue.createApp({
     data() {
         return {
             perspective: 100,
